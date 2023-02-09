@@ -15,9 +15,10 @@
    font-family: 'Poppins', sans-serif;
    text-align: left;
    color: rgb(20,30,33);
-   background-color: #ebf2fc;
+   background-color: #f9ecec;
    border-radius: 10px;
    padding: 20px;
+   margin-bottom: 3rem;
    /* background:url(https://beginnerjavascript.com/images/BJS/pattern.svg); */
    /* font-weight: bold; */
  }
