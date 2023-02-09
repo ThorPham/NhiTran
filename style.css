@@ -213,6 +213,9 @@ body {
   top: 0.75rem;
   width: 3rem;
 }
+
+
+
 .tiger-stripes-top::after {
   top: 2rem;
   width: 2.5rem;

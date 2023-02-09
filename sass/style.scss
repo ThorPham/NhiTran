@@ -410,9 +410,11 @@ h1, h2, h3, h4, h5, h6, figure {
 		height: 900px;
 		display: table;
 		width: 100%;
+		
 		@media screen and (max-width: $screen-sm) {
 			height: 600px;
 		}
+		
 	}	
 
 	&.fh5co-cover-sm {
@@ -427,7 +429,9 @@ h1, h2, h3, h4, h5, h6, figure {
 			width: 100%;
 			@media screen and (max-width: $screen-sm) {
 				height: 400px;
+
 			}
+			
 		}	
 	}
 }
@@ -871,6 +875,7 @@ form {
 			margin: 0;
 			padding: 0;
 			color: rgba(255,255,255,1);
+			font-size: 50px;
 		}
 		h1 {
 			margin-bottom: 0px;
@@ -892,6 +897,7 @@ form {
 				font-size: 16px;
 			}
 		}
+
 		.btn {
 			padding: 15px 20px;
 			background: $brand-white!important;

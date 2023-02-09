@@ -1,0 +1,53 @@
+@font-face {
+   font-family: GT Walsheim Pro;
+   src: local("GT Walsheim Pro Bold"),local("GTWalsheimProBold"),url(fonts/GTWalsheimProBold.woff2) format("woff2"),url(fonts/GTWalsheimProBold.woff) format("woff"),url(fonts/GTWalsheimProBold.ttf) format("truetype");
+   font-weight: 700;
+   font-style: normal
+ }
+
+
+#typedtext{
+   /* font-family: 'Inconsolata', Consolas, monospace;
+    */
+	/* font-size: 4em; */
+   /* font-family: "GT Walsheim  Bold";  */
+   /* font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif; */
+   font-family: 'Poppins', sans-serif;
+   text-align: left;
+   color: rgb(20,30,33);
+   background-color: #ebf2fc;
+   border-radius: 10px;
+   padding: 20px;
+   /* background:url(https://beginnerjavascript.com/images/BJS/pattern.svg); */
+   /* font-weight: bold; */
+ }
+ 
+.song{
+   margin: 40px auto  ;
+   display: flex;
+   flex-direction: row;
+   width: 80%;
+   justify-content : space-around;
+   /* background:url(https://beginnerjavascript.com/images/BJS/pattern.svg); */
+}
+ .song-vietnam,.song-english{
+   
+   font-size: 13px;
+   color: #788188;
+   /* font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    */
+    font-family: 'Poppins', sans-serif;
+   line-height: 0.2;
+   /* border: 1px solid black; */
+   /* align-items: flex-start; */
+   padding: 20px;
+   /* box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px; */
+   box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+   width : 25%;
+   /* margin: auto; */
+   /* font-weight: bold; */
+ }
+
+
+
+ 
