@@ -29,7 +29,7 @@ class Particle1 {
     this.h = $(window).height();
     this.direction = this.random > 0.5 ? -1 : 1;
     this.radius = 1 + 3 * this.random;
-    this.color = "#ff417d";
+    this.color = "#ffb5b5";
 
     this.ID = setInterval(
       function() {
@@ -58,7 +58,7 @@ class Particle1 {
     this.canvas.shadowOffsetX = 0;
     this.canvas.shadowOffsetY = 0;
     // this.canvas.shadowBlur = 6;
-    this.canvas.shadowColor = "#000000";
+    this.canvas.shadowColor = "#40708";
     this.canvas.fillStyle = this.color;
     this.canvas.fill();
     this.canvas.closePath();
@@ -100,7 +100,7 @@ class microParticle {
     this.w = $(window).width();
     this.h = $(window).height();
     this.radius = 1 + this.random * 0.5;
-    this.color = "#4EFCFE"; //this.random > .5 ? "#a9722c" : "#FFFED7"
+    this.color = "#132743"; //this.random > .5 ? "#a9722c" : "#FFFED7"
   }
 
   render() {
