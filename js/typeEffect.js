@@ -9,32 +9,28 @@
  
 // / set up text to print, each item in array is new line
 var aText = new Array(
- "Hằng à,  một ngày đẹp trời a biết em qua một tấm hình. Trời ơi định mệnh đến với a bắt đầu từ đây, a thích e quá em đúng mẫu người con gái mà a thầm mơ ước." ,
- "Em có nụ cười thật xinh, đôi mắt long lanh với cái mắt kính xinh sắn nó thu hút a đến kỳ lạ. " ,
-  "Em có một năng lượng tích cực và một ánh mắt biết nói, một giọng nói ấm áp.  " ,
+ "Nhi à, một ngày đẹp trời a biết sự tồn tại của em trên trái đất này. Trời ơi định mệnh đến với a bắt đầu từ đây, a thích e quá em đúng mẫu người con gái mà a thầm mơ ước." ,
+ "Em có nụ cười thật toả nắng, đôi mắt long lanh, một vẻ đẹp tri thức nó thu hút a đến kỳ lạ." ,
+  "Em có một năng lượng tích cực và một ánh mắt biết nói, một giọng nói ấm áp. " ,
   "Đôi mắt mù quáng của anh mòn mỏi ngắm nhìn hình ảnh của em chắc chắn em không biết được rằng em đẹp đến nhường nào và thật kì lạ làm sao khi em sở hữu vẻ yêu kiều pha nét đáng yêu nguy hiểm." ,
-  "Bằng một thế lực nào đó xúi giục anh bắt đầu tìm hiểu về em, tìm mọi cách để biết thêm về cô gái này,",
-  "Được biết cô gái này vẫn available, lòng a vui quá chừng và một ngày nọ anh mạnh dạn thả tim trên story của em và may mắn thay được em reply lại. ",
-  "Những ngày đầu nhắn tin với Hằng đúng nghĩa Hằng bơ luôn. Cả ngày chỉ có 2, 3 tin nhắn rầu Hằng lại còn ngủ sớm nữa chứ. ",
-  "May sao rầu a cũng có cơ hội nói chuyện với Hằng nhiều hơn. Rồi a cũng biết Hằng nhiều hơn , chúng ta cũng có nhiều điểm chung với nhau rồi cùng quan điểm sống nữa chứ.",
-  "Nhưng cũng có nhiều cái bất đồng như về sức khỏe cũng như chế độ ăn uống nữa. Nhưng không sao không ai sinh ra đã phù hợp với nhau cả, mà phải cùng thay đổi để phù hợp với nhau hơn đúng không nè .",
-  "Biết Hằng là một người sống chậm, yêu cây thích lá nên món quà của a tặng Hằng đầu tiên là 2 cái cây xinh xắn hy vọng Hằng luôn tươi tắn như nó nha.",
-  "Rồi còn biết Hằng thích yoga, thiền, đọc sách với chạy bộ nữa chứ. Rồi a cũng cố gắng tập chạy bộ để có thể chạy chung giải đã đăng ký với Hằng trước đó nữa chứ.",
-  "Từ khi nhắn tin với Hằng, từ một người ngủ sớm đã bị anh lôi kéo đến tận 11h có khi quá nữa đêm mới ngủ. Thấy cũng có lỗi lắm nhưng mà a thích tâm sự với Hằng lắm đấy. ",
-  'Hằng biết không, mỗi lần nghe Hằng nói "em buồn ngủ quá, não em đơ rầu, em ngủ mai còn dậy chạy bộ nữa" anh lại có cảm giác hụt hẫng vô cùng.',
-  "Biết rằng tối mai sẽ được nói chuyện cùng em thế nhưng vẫn a muốn giữ Hằng bên mình thêm một chút nữa.",
-  "Hằng bơ cái tên do anh đặt ! Một cô gái sắp bước qua tuổi 28, một cô gái cũng đã có những phút giây ngọt ngào bên người yêu thương, một cô gái đã từng nếm trải nỗi đau khi tình yêu tan vỡ, ",
-  "Một cô gái đã từng kể với a rằng đã khóc ròng cả tháng trời vì chia tay người yêu. Một cô gái từng nói với anh rằng tim em bây giờ rất khó rung động ",
-  "Anh phải làm sao đây, làm thế nào mới là đúng đây, Hằng có thể mở lòng một lần nữa không ?",
-  "Nhiều lúc a cả ngày chỉ nhìn cái điện thoại nhưng mãi không thấy được gì cả. Anh là gì với em, Hằng ơi! Em có chút rung động nào với anh chưa?",
-  "Anh cũng chẳng biết những gì a dành cho Hằng có phải là tình yêu không? Nhưng anh và nỗi nhớ trong anh là có thật.",
-  "Nhưng anh lại không thể nhớ nổi anh bắt đầu nhớ Hằng từ lúc nào. Nỗi nhớ không ồn ào, không cháy bỏng nhưng nó đủ cho anh biết rằng Hằng đã thực sự ý nghĩa trong cuộc đời anh.",
-  "Hằng à, A hy vọng chúng ta có thể tìm hiểu về nhau nhiều hơn. A cũng hy vọng chúng ta là một cặp nữa. Cùng nhau học chung, chơi chung, đi dạo chung , cùng nhau khám phá thế giới này nữa. ",
-  "A muốn làm nhiều thứ cùng với nhau với Hằng, Hằng mở lòng đón nhận a nhé. A ước một ngày sớm nhất có thể gặp Hằng. ",
-  "Crush của em Thorpham"
+  "Được biết cô gái qua một comment của chị gái. Anh không ngần ngại nhắn tin làm quen, lòng a vui quá chừng và may mắn thay được em reply lại. ",
+  "Bằng một thế lực nào đó xúi giục anh bắt đầu tìm hiểu về em, tìm mọi cách để biết thêm về cô gái này.",
+  "May sao rầi a cũng có cơ hội nói chuyện với em nhiều hơn. Anh cảm thấy sự đồng điệu ở chúng ta, a có một niềm tin rằng em mà mảnh ghép cuối cùng mà a đang tìm kiếm.",
+  "Nhi à, em biết không a muốn để lại trong em một ấn tượng về anh. Nên a không từ một thủ đoạn nào để tìm được địa chỉ và số sdt của em. A muốn tạo cho e bất ngờ mà cái kết thật lãng xẹt người nhận món quà là chị gái của em.",
+  "Từ khi nhắn tin với anh, từ một người ngủ sớm đã bị anh lôi kéo đến tận 3h có khi đến sáng sớm mới được ngủ. Thấy cũng có lỗi lắm nhưng mà a thích tâm sự với em lắm đấy. ",
+  "Nhi Trần một cô gái sắp bước qua tuổi 27, một cô gái chưa chưa có mối tình đầu. Một cô gái chả có tí niềm tin vào tình yêu khi chứng kiến biết bao nhiêu mối tình đau khổ của người thân, bạn bè",
+  "Một cô gái đã từng kể với a rằng em không muốn có người yêu, em không muốn lấy chồng. ",
+  "Anh phải làm sao đây, làm thế nào để em tin rằng trên thế giới này vẫn còn tồn tại về cái gọi tình yêu. Hãy cho a cơ hội để cho em thấy nhé.",
+  "Anh tin rằng sự gặp gỡ của chúng ta không phải là ngẫu nhiên ! Đó có thể là một định ước, như một thông điệp mà vũ trụ đang dẫn dắt chúng ta đến với nhau." ,
+  "Nhi à, anh muốn hỏi em một câu rằng liệu em có chút rung động nào với anh chưa?",
+  "Anh cũng chẳng biết những gì a dành cho em có quá sớm để gọi tình yêu không? Nhưng anh và nỗi nhớ trong anh là có thật.",
+  "Nhưng anh lại không thể nhớ nổi anh bắt đầu nhớ em từ lúc nào. Nỗi nhớ không ồn ào, không cháy bỏng nhưng nó đủ cho anh biết rằng sự xuất hiện của em đã thực sự ý nghĩa trong cuộc đời anh.",
+  "Nhi à, A hy vọng chúng ta có thể tìm hiểu về nhau nhiều hơn. A cũng hy vọng chúng ta là một cặp nữa. Cùng nhau đi ăn,đi chơi, đi dạo chung , cùng nhau khám phá thế giới này nữa. ",
+  "A muốn làm nhiều thứ cùng với nhau với em, Nhi mở lòng đón nhận a nhé. A mong một ngày sớm nhất có thể gặp em. ",
+  "Crush của em Dũng Phạm"
 
   );
-var iSpeed = 80; // time delay of print out
+var iSpeed = 95; // time delay of print out
 var iIndex = 0; // start printing array at this position
 var iArrLength = aText[1].length; // the length of the text array
 var iScrollAt = 8; // start scrolling up at this many lines
